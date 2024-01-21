@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "93dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_placeholder_": "Placeholder",
+    "_skin_": "s849ca32d13442c0b8f2766c5fafc64c",
+    "_text_": "Kiddy Chicken Burger.\nFrom: Cloudy Resto",
+    "_top_": {
+        "type": "string",
+        "value": "280dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "190dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "focusskin": "s4bcda34e3224647968525ff242aa688",
+    "id": "CopyTextArea0f3c12264557c41",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "ic211bfaca8b412380dfffe5fe2495df",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "Form2",
+    "pf": "Form2",
+    "placeholderskin": "s324ff49fa3a4cbfb0cb68a0b1cc2b14",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 1
+}

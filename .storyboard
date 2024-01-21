@@ -1,0 +1,131 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": null,
+                    "from": "e3f9a98dad3f44fd88ab01ee2fdbb26a",
+                    "points": [
+                        168.66480003475775,
+                        276.0394521040495,
+                        178.66480003475775,
+                        276.0394521040495,
+                        178.66480003475775,
+                        276.0394521040495,
+                        178.66480003475775,
+                        276.0394521040495,
+                        274.6648000347577,
+                        276.0394521040495,
+                        284.6648000347577,
+                        276.0394521040495
+                    ],
+                    "softLink": true,
+                    "to": "a1c10ee6f23a405b8898aa708ba74fbf"
+                },
+                {
+                    "actionId": null,
+                    "from": "a1c10ee6f23a405b8898aa708ba74fbf",
+                    "points": [
+                        459.8648000347576,
+                        276.03945210404953,
+                        469.8648000347576,
+                        276.03945210404953,
+                        516.6459781597573,
+                        276.03945210404953,
+                        516.6459781597573,
+                        276.03945210404953,
+                        563.427156284757,
+                        276.03945210404953,
+                        573.427156284757,
+                        276.03945210404953
+                    ],
+                    "softLink": true,
+                    "to": "g7cbea9a76e445d59de926c1aa17f061"
+                },
+                {
+                    "actionId": null,
+                    "from": "g7cbea9a76e445d59de926c1aa17f061",
+                    "points": [
+                        748.6271562847569,
+                        276.0394521040496,
+                        758.6271562847569,
+                        276.0394521040496,
+                        758.6271562847569,
+                        276.0394521040496,
+                        758.6271562847569,
+                        276.0394521040496,
+                        854.6271562847569,
+                        276.0394521040496,
+                        864.6271562847569,
+                        276.0394521040496
+                    ],
+                    "softLink": true,
+                    "to": "ec1684df96a74766819bca4e8f0ac59b"
+                },
+                {
+                    "actionId": null,
+                    "from": "ec1684df96a74766819bca4e8f0ac59b",
+                    "points": [
+                        1039.827156284757,
+                        276.0394521040495,
+                        1049.827156284757,
+                        276.0394521040495,
+                        1049.827156284757,
+                        276.03945210404953,
+                        1049.827156284757,
+                        276.03945210404953,
+                        1145.827156284757,
+                        276.03945210404953,
+                        1155.827156284757,
+                        276.03945210404953
+                    ],
+                    "softLink": true,
+                    "to": "dae7162bf71b4e7792dff37c7cef0149"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "e3f9a98dad3f44fd88ab01ee2fdbb26a",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "e3f9a98dad3f44fd88ab01ee2fdbb26a",
+                    "loc": "-6.535199965242228 106.43945210404952",
+                    "thumbnailURL": "/assets/foodibae/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "a1c10ee6f23a405b8898aa708ba74fbf",
+                    "formName": "Form2",
+                    "isStartupForm": false,
+                    "key": "a1c10ee6f23a405b8898aa708ba74fbf",
+                    "loc": "284.6648000347577 106.4394521040495",
+                    "thumbnailURL": "/assets/foodibae/forms/mobile/Form2.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "g7cbea9a76e445d59de926c1aa17f061",
+                    "formName": "CopyForm2",
+                    "isStartupForm": false,
+                    "key": "g7cbea9a76e445d59de926c1aa17f061",
+                    "loc": "573.427156284757 106.43945210404952",
+                    "thumbnailURL": "/assets/foodibae/forms/mobile/CopyForm2.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "ec1684df96a74766819bca4e8f0ac59b",
+                    "formName": "Form3",
+                    "isStartupForm": false,
+                    "key": "ec1684df96a74766819bca4e8f0ac59b",
+                    "loc": "864.6271562847569 106.43945210404956",
+                    "thumbnailURL": "/assets/foodibae/forms/mobile/Form3.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "dae7162bf71b4e7792dff37c7cef0149",
+                    "formName": "Form4",
+                    "isStartupForm": false,
+                    "key": "dae7162bf71b4e7792dff37c7cef0149",
+                    "loc": "1155.827156284757 106.43945210404954",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}

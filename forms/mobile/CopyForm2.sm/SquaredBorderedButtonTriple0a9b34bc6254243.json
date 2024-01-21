@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "167dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s400b660cb494cd0ab0c496e128f8524",
+    "_top_": {
+        "type": "string",
+        "value": "370dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "41.67%"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "ContainerSquaredButtonTripleLeft0b48a9a63319e47",
+        "ContainerSquaredButtonTripleMiddle0f4ba0cca88b84c",
+        "ContainerSquaredButtonTripleRight0f5d39ae536f040"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "SquaredBorderedButtonTriple0a9b34bc6254243",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cab6b3b1e4f342658aaccee05dd3fc07",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyForm2",
+    "pf": "CopyForm2",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

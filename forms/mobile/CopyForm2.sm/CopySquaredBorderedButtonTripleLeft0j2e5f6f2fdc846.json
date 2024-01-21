@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "se75548194a049f2bb6ec4a53fba757d",
+    "_text_": "-",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s524014636b84d89820ff1c70884f811",
+    "id": "CopySquaredBorderedButtonTripleLeft0j2e5f6f2fdc846",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bd551b5bd29e4cc59bbd13b3fd19a1bb",
+    "name": "kony.ui.Button",
+    "parent": "CopyContainerSquaredButtonTripleLeft0b1d15c3545e747",
+    "pf": "CopyForm2",
+    "wType": "Button",
+    "zindex": 1
+}

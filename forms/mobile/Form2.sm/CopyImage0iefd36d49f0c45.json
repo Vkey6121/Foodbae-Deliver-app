@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "107dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8ddb99badf84f2fb2872cbdf6083d0b",
+    "_src_": "burger_dinner_food_hamburger_wallpaper_preview.jpg",
+    "_top_": {
+        "type": "string",
+        "value": "273dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "137dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopyImage0iefd36d49f0c45",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bf047d3a9a694c8cb0f0cc1c16460095",
+    "name": "kony.ui.Image2",
+    "parent": "Form2",
+    "pf": "Form2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

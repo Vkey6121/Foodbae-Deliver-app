@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "68dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8ddb99badf84f2fb2872cbdf6083d0b",
+    "_src_": "images__2_.jpeg",
+    "_top_": {
+        "type": "string",
+        "value": "745dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Image0c168bba8af8a42",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "edefde303c7e44cbb650a46c5777d917",
+    "name": "kony.ui.Image2",
+    "parent": "Form3",
+    "pf": "Form3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

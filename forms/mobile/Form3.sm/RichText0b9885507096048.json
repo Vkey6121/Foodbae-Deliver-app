@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3455aedd0284bb0bc437df2501444ed",
+    "_text_": "Track orders",
+    "_top_": {
+        "type": "string",
+        "value": "705dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "36.23%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0b9885507096048",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c31d9418a1f741ffbc16c54245a1f7fe",
+    "linkskin": "s0a72a27a85c4e1ea594de741743ab83",
+    "name": "kony.ui.RichText",
+    "parent": "Form3",
+    "pf": "Form3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

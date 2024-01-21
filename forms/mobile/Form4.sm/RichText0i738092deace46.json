@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "34dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3455aedd0284bb0bc437df2501444ed",
+    "_text_": "Please fill your delivery information",
+    "_top_": {
+        "type": "string",
+        "value": "105dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "83.33%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0i738092deace46",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ddd9405a497e4a3faca1259b4d2d41b0",
+    "linkskin": "s0a72a27a85c4e1ea594de741743ab83",
+    "name": "kony.ui.RichText",
+    "parent": "Form4",
+    "pf": "Form4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

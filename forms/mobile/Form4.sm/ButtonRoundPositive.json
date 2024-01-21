@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "sbe69ba0b69a4cf191c74ba480792632",
+    "_text_": "Deliver point",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfd04d280b7449038791d1916518c25f",
+    "id": "ButtonRoundPositive",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g37a08fb4b464599ae7650685169c9ed",
+    "name": "kony.ui.Button",
+    "parent": "ContainerButtonPositive",
+    "pf": "Form4",
+    "wType": "Button",
+    "zindex": 1
+}

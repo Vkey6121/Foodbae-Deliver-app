@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3455aedd0284bb0bc437df2501444ed",
+    "_text_": "Love at first Burger",
+    "_top_": {
+        "type": "string",
+        "value": "245dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "48.81%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0je5ea5e6271d42",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "beb675c458d54662980bf9d655a85e29",
+    "linkskin": "s0a72a27a85c4e1ea594de741743ab83",
+    "name": "kony.ui.RichText",
+    "parent": "flexUserLogin",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "47dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3455aedd0284bb0bc437df2501444ed",
+    "_text_": "    Don't have account? Sign up now.",
+    "_top_": {
+        "type": "string",
+        "value": "725dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "82.66%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0cca4dedf2fdb40",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c832140c65404dfc9a72aa4c19f9b8a4",
+    "linkskin": "s0a72a27a85c4e1ea594de741743ab83",
+    "name": "kony.ui.RichText",
+    "parent": "flexUserLogin",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

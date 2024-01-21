@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Placeholder",
+    "_skin_": "sead6a46cab54c1a9a861631cc89a046",
+    "_text_": "Address",
+    "_top_": {
+        "type": "string",
+        "value": "245dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "325dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sa1d33836e584301bd9ee5b786f3ae8b",
+    "id": "CopyTextField0ab4b4b6ad7104f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "bb8e75cc299b4b81982857975f288969",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "Form4",
+    "pf": "Form4",
+    "placeholderskin": "s0da16a0149841298f9ac61ac3f32c9b",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

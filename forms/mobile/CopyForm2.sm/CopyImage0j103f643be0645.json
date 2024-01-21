@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "107dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8ddb99badf84f2fb2872cbdf6083d0b",
+    "_src_": "food_burgers_fast_food_fries_wallpaper_preview.jpg",
+    "_top_": {
+        "type": "string",
+        "value": "437dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "137dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopyImage0j103f643be0645",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f09cd7a032284c0f87fe3caadc2505fc",
+    "name": "kony.ui.Image2",
+    "parent": "CopyForm2",
+    "pf": "CopyForm2",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
